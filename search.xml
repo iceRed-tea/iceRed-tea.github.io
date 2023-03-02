@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>vue3实时刷新</title>
+      <link href="/2023/03/02/mypost/"/>
+      <url>/2023/03/02/mypost/</url>
+      
+        <content type="html"><![CDATA[<p>vue3需要在ref中绑定实时数据，const xxx = ref(‘’)，但是在函数中，必须要用函数调用，否则接口数据刷新，视图层则不会刷新。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/02/27/hello-world/"/>
       <url>/2023/02/27/hello-world/</url>
